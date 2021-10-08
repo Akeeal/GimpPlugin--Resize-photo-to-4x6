@@ -1,5 +1,5 @@
 # GimpPlugin--Resize-photo-to-4x6
-Same as 6x4 just to make it simpler
+Same as 6x4 just in landscape to make it simpler
 
 Re-sizing pictures to a clean printable photo size just with one Click. If you consitantly changing photo/picture size to particular size each time hopefully
 this will save you time like it did for me.
